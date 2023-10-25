@@ -16,7 +16,7 @@ public class Case1 {
             } else if (randomNum > userInput) {
                 System.out.println("UP");
             } else {
-                System.out.println("올ㅋ어케아셨데요!?");
+                System.out.println("올ㅋ어케아셨죠!?");
                 string = "팍!짝! 됬으!";
             }
         }
