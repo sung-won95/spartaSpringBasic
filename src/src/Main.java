@@ -1,4 +1,4 @@
-import base.Case1;
+import jimyung.Case1;
 
 public class Main {
     public static void main(String[] args) {
