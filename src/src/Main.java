@@ -1,3 +1,5 @@
+package yerin;
+
 import base.Case1;
 
 public class Main {
