@@ -1,4 +1,4 @@
-package base;
+package minju;
 
 public class Case1 {
     public void gameStart(int randomNum) {
