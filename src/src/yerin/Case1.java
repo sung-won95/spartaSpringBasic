@@ -1,5 +1,5 @@
 package yerin;
-
+//#1. 복습반 첫번째 문제풀이
 import java.util.Scanner;
 
 public class Case1 {
@@ -27,3 +27,4 @@ public class Case1 {
         }
     }
 }
+
