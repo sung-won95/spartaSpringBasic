@@ -1,8 +1,10 @@
-import JH.Case1;
+import minju.Car;
+import minju.Case1;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
-        Case1 case1 = new Case1();
-        case1.gameStart(3);
+        Car blue_car = new Car("blue");
+
+        System.out.println(blue_car.무슨색차니());
     }
 }
