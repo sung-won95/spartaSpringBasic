@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Case1 {
     public void gameStart(int randomNum){
-        //여기에 작성해 주세요
+
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
