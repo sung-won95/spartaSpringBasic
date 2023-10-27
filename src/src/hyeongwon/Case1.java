@@ -11,10 +11,8 @@ public class Case1 {
             userInput = scanner.nextInt();
             if (randomNum < userInput) {
                 System.out.println("DOWN");
-                System.out.println("다시 입력하세요.");
             } else if (randomNum > userInput) {
                 System.out.println("UP");
-                System.out.println("다시 입력하세요.");
             }
             } while (userInput != randomNum) ;
             System.out.println("GOOD");
