@@ -8,6 +8,7 @@ public class Case1 {
 
         for (; ; ) {
             Integer userInput = Integer.parseInt(scanner.nextLine());
+
             if (randomNum < userInput) {
                 System.out.println("DOWN!");
             } else if (randomNum > userInput) {
